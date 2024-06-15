@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\bmadu\OneDrive\Documents\Programs\ADA\learnada.gpr
+20240615162400 3c458e9476227a4a4158eb8c0486a5b3
+[BOUND OBJECT FILES]
+C:\Users\bmadu\OneDrive\Documents\Programs\ADA\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\bmadu\OneDrive\Documents\Programs\ADA\obj\
+-LC:\Users\bmadu\OneDrive\Documents\Programs\ADA\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
